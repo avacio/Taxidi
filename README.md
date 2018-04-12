@@ -1,4 +1,4 @@
-# Taxidi
+# ΤΑΞΙΔΙ (Taxidi)
 **VR/AR scavenger hunt in ancient Cyprus** <br/>
 <br/>
 Project remains in the UBC Emerging Media Labs.<br/>
