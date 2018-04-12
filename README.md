@@ -7,7 +7,7 @@ Here are some pictures of the project materials and testing process:<br/>
 ![title](https://i.imgur.com/wYBBgNi.png)
 <br/><br/>
 Concept Art:<br/>
-![](https://i.imgur.com/O3ynoRq.jpg)</br>
+![](https://i.imgur.com/O3ynoRq.jpg)<br/>
 <br/>
 Testing object-checking function:<br/>
 ![](https://i.imgur.com/WxTShWG.gif)
