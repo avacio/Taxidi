@@ -15,7 +15,7 @@ Testing object-checking function:<br/>
 <br/>
 AR Markers of the scavenger objects and Cyprus ruin models:<br/>
 ![](https://github.com/avacio/Taxidi/blob/master/AR%20markers/sword.jpg) <br/>
-![](https://github.com/avacio/Taxidi/blob/master/AR%20markers/sword.jpg) <br/>
+![](https://github.com/avacio/Taxidi/blob/master/AR%20markers/pot.jpg) <br/>
 ![](https://github.com/avacio/Taxidi/blob/master/AR%20markers/new-column.jpg) <br/>
 ![](https://github.com/avacio/Taxidi/blob/master/AR%20markers/customhiroar.png) <br/>
 ![](https://github.com/avacio/Taxidi/blob/master/AR%20markers/map.jpg) <br/>
